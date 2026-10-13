@@ -16,14 +16,9 @@
 | [**Binimoy (বিনিময়)**](https://github.com/SadManQT/Binimoy) | AI-first transaction workspace that guides buyers and sellers through a deal, collects evidence and helps resolve disputes fairly. | Next.js · TypeScript · PostgreSQL · Docker |
 | [**Last Light Academy**](https://github.com/SadManQT/nasa-space-apps-2026) | NASA Space Apps 2026 entry: a bilingual astronaut-training game for ages 10–15 about keeping the first flower alive on the Moon. | Godot 4 |
 | [**Fruit Eater**](https://github.com/SadManQT/Fruit-Eater) | A small Unity game. | Unity · C# |
-
-### 🤝 Contributed to
-
-| Project | What it is | Stack |
-|---|---|---|
 | [**Escave**](https://github.com/mdraihankabirsifat/Optimus) | Team Optimus's entry for the BUET Robotics Society GameJam 2026: a procedurally generated cave race where each player controls only their own gravity. | Godot · GDScript |
 | [**Over The Wall S5**](https://github.com/ramim167/Over-The-wall) | Team entry for Marico Bangladesh's Over The Wall Season 5, a campus innovation competition: "Naturale WaterSmart" product idea backed by field research, survey data and a financial model. | Research · Business case · HTML |
-| [**Hospital Management System**](https://github.com/Atul-169/Hospital-Management-System) | Hospital management desktop app. | Java · JavaFX |
+| [**Hospital Management System**](https://github.com/Atul-169/Hospital-Management-System) | My CSE 108 (Level 1, Term 2) course project: a hospital management desktop app. | Java · JavaFX |
 
 ### 🛠️ Tech I use
 

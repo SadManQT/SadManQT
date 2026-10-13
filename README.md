@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Khandaker Shadman Sakib Siddiquee 👋
+# Hi, I'm Sadman Sakib 👋
 
 **CSE student at BUET (Bangladesh University of Engineering and Technology) · Dhaka, Bangladesh 🇧🇩**
 

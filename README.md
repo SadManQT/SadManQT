@@ -1,8 +1,12 @@
 <div align="center">
 
-# Hi, I'm Sadman Sakib 👋
+# Hi, I'm Khandaker Shadman Sakib Siddiquee 👋
 
-**CS student from Bangladesh 🇧🇩 building full-stack products and games for real people.**
+**CSE student at BUET (Bangladesh University of Engineering and Technology) · Dhaka, Bangladesh 🇧🇩**
+
+Building full-stack products and games for real people.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khandaker-shadman-sakib-siddiquee-cse-student-at-buet-586774438/)
 
 </div>
 
